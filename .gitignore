@@ -1,0 +1,7 @@
+/ethereum/deploy.js
+/ethereum/factory.js
+/components/firebase
+node_modules
+ngrok
+.next
+main
